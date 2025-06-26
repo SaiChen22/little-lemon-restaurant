@@ -5,9 +5,7 @@
 
 A modern web application for table reservation at the Little Lemon restaurant, built with React and Tailwind CSS. This project is the capstone project for the Meta Front-End Developer Professional Certification program.
 
-## Demo
 
-You can deploy this project to your own hosting platform.
 
 ## Features
 
